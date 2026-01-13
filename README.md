@@ -83,7 +83,7 @@ Implements a **Template Attack (Profiling Attack)** on AES:
 
 **SNR curve for POI selection (example: Byte 0)**
 
-![Template SNR Byte 0](figures/template_snr_byte0.png)
+![Template SNR Byte 0](figures/template_snr_curve.png)
 
 **Final key recovery summary (16/16 bytes)**
 
