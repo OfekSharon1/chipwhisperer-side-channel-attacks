@@ -56,30 +56,37 @@ Implements a **Template Attack (Profiling Attack)** on AES:
 
 ### CPA Attack
 **Max correlation vs. key guess**
+
 ![CPA max corr vs key guess](figures/cpa_max_corr_vs_key_guess.png)
 
 **Correlation across time samples**
+
 ![CPA correlation across time](figures/cpa_corr_across_time_samples.png)
 
 **Max correlation vs. number of traces**
+
 ![CPA max corr vs traces](figures/cpa_max_corr_vs_traces.png)
 
 ---
 
 ### DPA Attack
 **Recovered secret verification**
+
 ![Recovered ID match](figures/dpa_recovered_id_match.png)
 
 ---
 
 ### Template Attack
 **Key recovery accuracy vs. number of attack traces**
+
 ![Template accuracy vs traces](figures/template_accuracy_vs_traces.png)
 
 **SNR curve for POI selection (example: Byte 0)**
+
 ![Template SNR Byte 0](figures/template_snr_byte0.png)
 
 **Final key recovery summary (16/16 bytes)**
+
 ![Template key recovery](figures/template_key_recovery_16of16.png)
 
 ---
