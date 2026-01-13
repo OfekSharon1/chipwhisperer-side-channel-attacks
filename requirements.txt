@@ -1,0 +1,5 @@
+chipwhisperer
+numpy
+scipy
+matplotlib
+jupyter
